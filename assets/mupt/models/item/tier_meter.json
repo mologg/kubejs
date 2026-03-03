@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mupt:item/over_0"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "mupt:item/tier_meter_over_0" },
+    { "predicate": { "custom_model_data": 2 }, "model": "mupt:item/tier_meter_over_1" },
+    { "predicate": { "custom_model_data": 3 }, "model": "mupt:item/tier_meter_over_2" },
+    { "predicate": { "custom_model_data": 4 }, "model": "mupt:item/tier_meter_nether_0" },
+    { "predicate": { "custom_model_data": 5 }, "model": "mupt:item/tier_meter_nether_1" },
+    { "predicate": { "custom_model_data": 6 }, "model": "mupt:item/tier_meter_nether_2" }
+  ]
+}
