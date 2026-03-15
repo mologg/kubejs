@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "About Molo",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "He's good",
+    "bold": true,
+    "color": "red"
+  }
+}

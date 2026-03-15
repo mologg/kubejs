@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "I like",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "mf doom",
+    "bold": true,
+    "color": "red"
+  }
+}

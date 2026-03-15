@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Tip for everyone",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Be ready",
+    "bold": true,
+    "color": "red"
+  }
+}
