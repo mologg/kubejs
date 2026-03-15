@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Credits",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "daedelus_dev is developer of Better Combat mod that rework melee attacks system, which is goated. Thanks, Mr. Daedelus!",
+    "bold": false,
+    "color": "white"
+  }
+}
