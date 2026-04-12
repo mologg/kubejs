@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Quark tip",
+    "color": "aqua",
+    "bold": "true",
+    "underlined": "true"
+  },
+  "tip": {
+    "text": "Fan coral can be placed on top of cactus"
+  }
+}

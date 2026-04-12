@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Quark tip",
+    "color": "aqua",
+    "bold": "true",
+    "underlined": "true"
+  },
+  "tip": {
+    "text": "Pink petals can be placed onto water"
+  }
+}

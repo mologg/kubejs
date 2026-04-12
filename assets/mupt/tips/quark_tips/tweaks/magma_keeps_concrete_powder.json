@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Quark tip",
+    "color": "aqua",
+    "bold": "true",
+    "underlined": "true"
+  },
+  "tip": {
+    "text": "Concrete powder will not solidify if magma blocks are placed below"
+  }
+}

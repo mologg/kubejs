@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Quark tip",
+    "color": "aqua",
+    "bold": "true",
+    "underlined": "true"
+  },
+  "tip": {
+    "text": "Maps can be washed in a cauldron, turning them back into blank maps"
+  }
+}

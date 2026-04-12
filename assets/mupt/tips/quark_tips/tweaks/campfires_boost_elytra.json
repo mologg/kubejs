@@ -1,0 +1,11 @@
+{
+  "title": {
+    "text": "Quark tip",
+    "color": "aqua",
+    "bold": "true",
+    "underlined": "true"
+  },
+  "tip": {
+    "text": "Campfire with hay bale under it will boost player upward when flying on elytras, soul campfire will pull player downward"
+  }
+}
