@@ -1,7 +1,7 @@
 var ALTAR_CONFIG = {
 
   "wither_altar": {
-    summoner:      "MUP_Tweaks:wither_summoner",
+    summoner:      "mup_tweaks:wither_summoner",
     activatorItem: "minecraft:diamond",
     consumeItem:   true,
 
@@ -16,7 +16,7 @@ var ALTAR_CONFIG = {
       palette: {
         "N": "minecraft:netherrack",
         "M": "minecraft:magma_block",
-        "A": "MUP_Tweaks:wither_summoner",
+        "A": "mup_tweaks:wither_summoner",
         "*": null,
       },
     },
@@ -41,7 +41,7 @@ var ALTAR_CONFIG = {
   },
 
   "zombie_altar": {
-    summoner:      "MUP_Tweaks:zombie_summoner",
+    summoner:      "mup_tweaks:zombie_summoner",
     activatorItem: "minecraft:stick",
     consumeItem:   true,
 
@@ -54,7 +54,7 @@ var ALTAR_CONFIG = {
       palette: {
         "G": "minecraft:gravel",
         "P": "minecraft:oak_planks",
-        "A": "MUP_Tweaks:zombie_summoner",
+        "A": "mup_tweaks:zombie_summoner",
       },
     },
 
@@ -78,7 +78,7 @@ var ALTAR_CONFIG = {
   },
 
   "zombie_altar": {
-    summoner:      "MUP_Tweaks:cow_summoner",
+    summoner:      "mup_tweaks:cow_summoner",
     activatorItem: "minecraft:wheat",
     consumeItem:   true,
 
@@ -91,7 +91,7 @@ var ALTAR_CONFIG = {
       palette: {
         "*": null,
         "H": "minecraft:hay_block",
-        "A": "MUP_Tweaks:cow_summoner",
+        "A": "mup_tweaks:cow_summoner",
       },
     },
 

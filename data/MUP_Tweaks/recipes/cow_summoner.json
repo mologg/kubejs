@@ -10,6 +10,6 @@
     "B": { "item": "minecraft:beef" }
   },
   "result": {
-    "item": "MUP_Tweaks:cow_summoner"
+    "item": "mup_tweaks:cow_summoner"
   }
 }

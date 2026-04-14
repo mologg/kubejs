@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "MUP_Tweaks:block/cow_summoner"
+    "all": "mup_tweaks:block/cow_summoner"
   }
 }

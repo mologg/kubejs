@@ -61,12 +61,12 @@ PlayerEvents.tick(function(event) {
   var inv = player.inventory;
   var hasMeter = false;
 
-  if (player.mainHandItem && player.mainHandItem.id === "MUP_Tweaks:tier_meter") hasMeter = true;
-  if (!hasMeter && player.offhandItem && player.offhandItem.id === "MUP_Tweaks:tier_meter") hasMeter = true;
+  if (player.mainHandItem && player.mainHandItem.id === "mup_tweaks:tier_meter") hasMeter = true;
+  if (!hasMeter && player.offhandItem && player.offhandItem.id === "mup_tweaks:tier_meter") hasMeter = true;
   if (!hasMeter) {
     for (var s = 0; s < inv.containerSize; s++) {
       var slotItem = inv.getItem(s);
-      if (slotItem && slotItem.id === "MUP_Tweaks:tier_meter") {
+      if (slotItem && slotItem.id === "mup_tweaks:tier_meter") {
         hasMeter = true;
         break;
       }
@@ -79,7 +79,7 @@ PlayerEvents.tick(function(event) {
   var cmd  = getCMD(dim, dist);
 
   function applyIfMeter(stack) {
-    if (!stack || stack.id !== "MUP_Tweaks:tier_meter") return;
+    if (!stack || stack.id !== "mup_tweaks:tier_meter") return;
     var current = (stack.nbt && stack.nbt.CustomModelData) ? stack.nbt.CustomModelData : 0;
     if (current !== cmd) {
       stack.nbt = { CustomModelData: cmd };
