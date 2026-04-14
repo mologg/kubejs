@@ -75,6 +75,43 @@ var ALTAR_CONFIG = {
     fireworkTrail:  true,
     fireworkFlicker: true,
     fireworkOffsetY: 2.5,  // blocks above the summoner block
+  },
+
+  "zombie_altar": {
+    summoner:      "mupt:cow_summoner",
+    activatorItem: "minecraft:wheat",
+    consumeItem:   true,
+
+    platform: {
+      pattern: [
+        "*H*",
+        "HAH",
+        "*H*",
+      ],
+      palette: {
+        "*": null,
+        "H": "minecraft:hay_block",
+        "A": "mupt:cow_summoner",
+      },
+    },
+
+    spawnEntity:     "minecraft:cow",
+    spawnCount:      5,
+    castTimeTicks:   20,
+    spawnOffsetY:    1,
+    msgStart:        "He has wheat guys!",
+    msgBusy:         "HE FOR REAL HAVE IT",
+    msgSuccess:      "Moooooooo",
+    msgBadStructure: "We would like some hay bales",
+    msgWrongItem:    "We want wheat",
+
+    // Firework shape: 0=small ball, 1=large ball, 2=star, 3=creeper, 4=burst
+    fireworkType: 0,
+    fireworkColors:     [16711680, 8519755],
+    fireworkFadeColors: [16776960, 0],
+    fireworkTrail:  true,
+    fireworkFlicker: true,
+    fireworkOffsetY: 2.5,  // blocks above the summoner block
   }
 };
 

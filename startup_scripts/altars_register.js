@@ -20,6 +20,13 @@ var ALTAR_BLOCKS = [
     hardness:   3.0,
     resistance: 6.0,
   },
+
+  {
+    id:         "mupt:cow_summoner",
+    name:       "Cow Summoner",
+    hardness:   3.0,
+    resistance: 6.0,
+  },
 ];
 
 // ============================================================
@@ -34,7 +41,7 @@ StartupEvents.registry("block", function(event) {
       .hardness(cfg.hardness)
       .resistance(cfg.resistance)
       .requiresTool(true)
-      .tagBlock("minecraft:needs_stone_tool")
+      .tagBlock("minecraft:needs_wooden_tool")
       .tagBlock("minecraft:mineable/pickaxe");
   }
 });
