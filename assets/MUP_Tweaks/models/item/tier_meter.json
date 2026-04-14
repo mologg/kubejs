@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "MUP_Tweaks:item/over_0"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "MUP_Tweaks:item/tier_meter_over_0" },
+    { "predicate": { "custom_model_data": 2 }, "model": "MUP_Tweaks:item/tier_meter_over_1" },
+    { "predicate": { "custom_model_data": 3 }, "model": "MUP_Tweaks:item/tier_meter_over_2" },
+    { "predicate": { "custom_model_data": 4 }, "model": "MUP_Tweaks:item/tier_meter_nether_0" },
+    { "predicate": { "custom_model_data": 5 }, "model": "MUP_Tweaks:item/tier_meter_nether_1" },
+    { "predicate": { "custom_model_data": 6 }, "model": "MUP_Tweaks:item/tier_meter_nether_2" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LBL",
+    "BBB",
+    "LBL"
+  ],
+  "key": {
+    "L": { "item": "minecraft:leather" },
+    "B": { "item": "minecraft:beef" }
+  },
+  "result": {
+    "item": "MUP_Tweaks:cow_summoner"
+  }
+}

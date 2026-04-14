@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "mupt:item/nether_0"
+    "layer0": "MUP_Tweaks:item/nether_1"
   }
 }

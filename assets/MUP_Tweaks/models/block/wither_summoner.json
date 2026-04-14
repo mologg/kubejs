@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "mupt:block/wither_summoner"
+    "all": "MUP_Tweaks:block/wither_summoner"
   }
 }

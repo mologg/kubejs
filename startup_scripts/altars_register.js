@@ -8,21 +8,21 @@
 var ALTAR_BLOCKS = [
 
   {
-    id:         "mupt:wither_summoner",
+    id:         "MUP_Tweaks:wither_summoner",
     name:       "Wither Summoner",
     hardness:   3.0,
     resistance: 6.0,
   },
 
   {
-    id:         "mupt:zombie_summoner",
+    id:         "MUP_Tweaks:zombie_summoner",
     name:       "Zombie Summoner",
     hardness:   3.0,
     resistance: 6.0,
   },
 
   {
-    id:         "mupt:cow_summoner",
+    id:         "MUP_Tweaks:cow_summoner",
     name:       "Cow Summoner",
     hardness:   3.0,
     resistance: 6.0,
