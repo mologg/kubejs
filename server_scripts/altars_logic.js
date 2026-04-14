@@ -79,7 +79,7 @@ var ALTAR_CONFIG = {
 
   "zombie_altar": {
     summoner:      "mup_tweaks:cow_summoner",
-    activatorItem: "minecraft:wheat",
+    activatorItem: "minecraft:cow_altar_activator",
     consumeItem:   true,
 
     platform: {
@@ -103,7 +103,7 @@ var ALTAR_CONFIG = {
     msgBusy:         "HE FOR REAL HAVE IT",
     msgSuccess:      "Moooooooo",
     msgBadStructure: "We would like some hay bales",
-    msgWrongItem:    "We want wheat",
+    msgWrongItem:    "We want some real wheat",
 
     // Firework shape: 0=small ball, 1=large ball, 2=star, 3=creeper, 4=burst
     fireworkType: 0,

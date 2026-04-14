@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GHG",
+    "GGG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:grass" },
+    "H": { "item": "minecraft:hay_block" }
+  },
+  "result": {
+    "item": "mup_tweaks:cow_altar_activator"
+  }
+}
