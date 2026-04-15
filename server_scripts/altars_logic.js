@@ -77,9 +77,9 @@ var ALTAR_CONFIG = {
     fireworkOffsetY: 2.5,  // blocks above the summoner block
   },
 
-  "zombie_altar": {
+  "cow_altar": {
     summoner:      "mup_tweaks:cow_summoner",
-    activatorItem: "minecraft:cow_altar_activator",
+    activatorItem: "mup_tweaks:cow_altar_activator",
     consumeItem:   true,
 
     platform: {
