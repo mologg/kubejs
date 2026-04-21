@@ -44,7 +44,7 @@
           {
             "biome_layers": {
               "-1.0": "twilightforest:clearing",
-              "-3.0": "twilightforest:underground"
+              "-3.0": "regions_unexplored:prismachasm"
             },
             "depth": 0.005,
             "key_biome": "twilightforest:clearing",
